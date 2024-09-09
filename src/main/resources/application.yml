@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: grpc-study
+
+grpc:
+  server:
+    port: 9090
